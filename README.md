@@ -29,6 +29,3 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://linux.org)
 
-**Frontend:** React, JavaScript, HTML5, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs, JWT  
-**DB/DevOps:** MongoDB, MySQL, AWS EC2, Docker 
