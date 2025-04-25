@@ -29,3 +29,8 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docker.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://linux.org)
 
+## Working Profile
+https://github.com/versal-pushpendu
+![Screenshot 2025-04-25 213036](https://github.com/user-attachments/assets/a0655da0-2a5a-4b11-ae0d-fc372c23bdd9)
+
+
