@@ -1,6 +1,6 @@
 # Pushpendu Jana 💻 
 **Full Stack Developer | Founder @ [WNFact Technology](https://wnfact.in) | Building Scalable Web Solutions**  
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Pushpendu.online-2ea44f)](https://pushpendu.dev)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Pushpendu.dev-2ea44f)](https://pushpendu.dev)
 
 ## 👨💻 Profile
 - 🏢 **Software Developer** @ [Versalence Infocomm](https://versalence.ai) (2024-Present)  
