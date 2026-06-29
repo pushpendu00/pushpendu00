@@ -1,5 +1,5 @@
 # Pushpendu Jana 💻 
-**Full Stack Developer | Founder @ [WNFact Technology](https://wnfact.in) | Building Scalable Web Solutions**  
+**Full Stack Developer | Building Scalable Web Solutions**  
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Pushpendu.dev-2ea44f)](https://pushpendu.dev)
 
 ## 👨💻 Profile
